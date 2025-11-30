@@ -1,1 +1,1 @@
-snowdreamtech/frpc:trixie
+snowdreamtech/frps
