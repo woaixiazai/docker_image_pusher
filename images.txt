@@ -1,3 +1,2 @@
-apache/kvrocks
-ghcr.io/fish2018/pansou-web:latest
-bestzwei/libretv:latest
+nginx:1.27
+redis:7
