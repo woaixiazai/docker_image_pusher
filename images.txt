@@ -1,1 +1,2 @@
 gulj/helloword
+nginx:latest
