@@ -3,3 +3,4 @@ helloworld
 nginx:latest
 redis:7
 testimage:latest
+verifyfix:latest
