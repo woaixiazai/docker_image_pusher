@@ -1,4 +1,5 @@
 busybox
+forceupdate:latest
 helloworld
 nginx:latest
 redis:7
