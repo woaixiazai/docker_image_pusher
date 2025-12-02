@@ -1,8 +1,1 @@
-busybox
-forceupdate:latest
-helloworld
-nginx:latest
-recreate:latest
-redis:7
-test:latest
-testimage:latest
+replace:test
