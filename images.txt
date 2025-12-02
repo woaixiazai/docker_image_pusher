@@ -1,1 +1,1 @@
-replace:test
+another:latest
