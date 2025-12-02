@@ -2,6 +2,3 @@ busybox
 helloworld
 nginx:latest
 redis:7
-test:latest
-testimage:latest
-verifyfix:latest
